@@ -36,9 +36,9 @@ https://healthcaremedical.netlify.app/
 
 ## 💻 Tech Stack
 
-| Frontend  | Backend   | Database | Payment Gateway |
-|-----------|-----------|----------|-----------------|
-| React JS  | Node JS   | MongoDB  | Razorpay/Stripe |
-| Tailwind / Bootstrap  | Express JS | Mongoose      |
+| Frontend  |
+|-----------|
+| React JS  |
+
 
 
