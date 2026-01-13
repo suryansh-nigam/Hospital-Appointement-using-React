@@ -88,212 +88,213 @@ export const specialityData = [
 export const doctors = [
     {
         _id: 'doc1',
-        name: 'Dr. Richard James',
+        name: 'Dr. Rohan Sharma',
         image: doc1,
         speciality: 'General physician',
         degree: 'MBBS',
         experience: '4 Years',
-        about: 'Dr. Richard James is a highly dedicated general physician known for their commitment to patient care, preventive strategies, accurate diagnosis, and effective treatments tailored to each individual. Dr. Richard James is a highly dedicated general physician known for their commitment to patient care, preventive strategies, accurate diagnosis, and effective treatments tailored to each individual.',
+        about: 'Dr. Rohan Sharma is a highly dedicated general physician known for their commitment to patient care, preventive strategies, accurate diagnosis, and effective treatments tailored to each individual.',
         fees: 150,
         address: {
-            line1: '17th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: 'Sector 12, Indira Nagar',
+            line2: 'Lucknow, Uttar Pradesh'
         }
     },
     {
         _id: 'doc2',
-        name: 'Dr. Emily Larson',
+        name: 'Dr. Neha Singh',
         image: doc2,
         speciality: 'Gynecologist',
         degree: 'MBBS',
         experience: '3 Years',
-        about: 'Dr. Emily Larson is a highly dedicated gynecologist known for their commitment to patient care, preventive strategies, accurate diagnosis, and effective treatments tailored to each individual. Dr. Emily Larson is a highly dedicated gynecologist known for their commitment to patient care, preventive strategies, accurate diagnosis, and effective treatments tailored to each individual.',
+        about: 'Dr. Neha Singh is a highly dedicated gynecologist known for their commitment to patient care, preventive strategies, accurate diagnosis, and effective treatments tailored to each individual.',
         fees: 160,
         address: {
-            line1: '27th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: 'MG Road, Near Civil Lines',
+            line2: 'Kanpur, Uttar Pradesh'
         }
     },
     {
         _id: 'doc3',
-        name: 'Dr. Sarah Patel',
+        name: 'Dr. Priya Patel',
         image: doc3,
         speciality: 'Dermatologist',
         degree: 'MBBS',
         experience: '1 Years',
-        about: 'Dr. Sarah Patel is a highly dedicated dermatologist known for their commitment to patient care, preventive strategies, accurate diagnosis, and effective treatments tailored to each individual. Dr. Sarah Patel is a highly dedicated dermatologist known for their commitment to patient care, preventive strategies, accurate diagnosis, and effective treatments tailored to each individual.',
+        about: 'Dr. Priya Patel is a highly dedicated dermatologist known for their commitment to patient care, preventive strategies, accurate diagnosis, and effective treatments tailored to each individual.',
         fees: 130,
         address: {
-            line1: '37th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: 'Navrangpura Main Road',
+            line2: 'Ahmedabad, Gujarat'
         }
     },
     {
         _id: 'doc4',
-        name: 'Dr. Christopher Lee',
+        name: 'Dr. Arjun Mehta',
         image: doc4,
         speciality: 'Pediatricians',
         degree: 'MBBS',
         experience: '2 Years',
-        about: 'Dr. Christopher Lee is a highly dedicated pediatricians known for their commitment to patient care, preventive strategies, accurate diagnosis, and effective treatments tailored to each individual. Dr. Christopher Lee is a highly dedicated pediatricians known for their commitment to patient care, preventive strategies, accurate diagnosis, and effective treatments tailored to each individual.',
+        about: 'Dr. Arjun Mehta is a highly dedicated pediatrician known for their commitment to patient care, preventive strategies, accurate diagnosis, and effective treatments tailored to each individual.',
         fees: 140,
         address: {
-            line1: '47th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: 'Vashi, Sector 17 Market',
+            line2: 'Navi Mumbai, Maharashtra'
         }
     },
     {
         _id: 'doc5',
-        name: 'Dr. Jennifer Garcia',
+        name: 'Dr. Kavita Verma',
         image: doc5,
         speciality: 'Neurologist',
         degree: 'MBBS',
         experience: '4 Years',
-        about: 'Dr. Jennifer Garcia is a highly dedicated neurologist known for their commitment to patient care, preventive strategies, accurate diagnosis, and effective treatments tailored to each individual. Dr. Jennifer Garcia is a highly dedicated neurologist known for their commitment to patient care, preventive strategies, accurate diagnosis, and effective treatments tailored to each individual.',
+        about: 'Dr. Kavita Verma is a highly dedicated neurologist known for their commitment to patient care, preventive strategies, accurate diagnosis, and effective treatments tailored to each individual.',
         fees: 150,
         address: {
-            line1: '57th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: 'Banjara Hills Road No. 2',
+            line2: 'Hyderabad, Telangana'
         }
     },
+    
     {
         _id: 'doc6',
-        name: 'Dr. Andrew Williams',
+        name: 'Dr. Ankit Raj',
         image: doc6,
         speciality: 'Neurologist',
         degree: 'MBBS',
         experience: '4 Years',
-        about: 'Dr. Andrew Williams is a highly dedicated neurologist known for their commitment to patient care, preventive strategies, accurate diagnosis, and effective treatments tailored to each individual. Dr. Andrew Williams is a highly dedicated neurologist known for their commitment to patient care, preventive strategies, accurate diagnosis, and effective treatments tailored to each individual.',
+        about: 'Dr. Ankit Raj is a highly dedicated neurologist known for their commitment to patient care, preventive strategies, accurate diagnosis, and effective treatments tailored to each individual.',
         fees: 150,
         address: {
-            line1: '57th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: 'South City, Block C',
+            line2: 'Gurugram, Haryana'
         }
     },
     {
         _id: 'doc7',
-        name: 'Dr. Christopher Davis',
+        name: 'Dr. Mohit Khanna',
         image: doc7,
         speciality: 'General physician',
         degree: 'MBBS',
         experience: '4 Years',
-        about: 'Dr. Christopher Davis is a highly dedicated general physician known for their commitment to patient care, preventive strategies, accurate diagnosis, and effective treatments tailored to each individual. Dr. Christopher Davis is a highly dedicated general physician known for their commitment to patient care, preventive strategies, accurate diagnosis, and effective treatments tailored to each individual.',
+        about: 'Dr. Mohit Khanna is a highly dedicated general physician known for their commitment to patient care, preventive strategies, accurate diagnosis, and effective treatments tailored to each individual.',
         fees: 150,
         address: {
-            line1: '17th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: 'Lalbagh, Near Hazratganj',
+            line2: 'Lucknow, Uttar Pradesh'
         }
     },
     {
         _id: 'doc8',
-        name: 'Dr. Timothy White',
+        name: 'Dr. Ishita Kapoor',
         image: doc8,
         speciality: 'Gynecologist',
         degree: 'MBBS',
         experience: '3 Years',
-        about: 'Dr. Timothy White is a highly dedicated gynecologist known for their commitment to patient care, preventive strategies, accurate diagnosis, and effective treatments tailored to each individual. Dr. Timothy White is a highly dedicated gynecologist known for their commitment to patient care, preventive strategies, accurate diagnosis, and effective treatments tailored to each individual.',
+        about: 'Dr. Ishita Kapoor is a highly dedicated gynecologist known for their commitment to patient care, preventive strategies, accurate diagnosis, and effective treatments tailored to each individual.',
         fees: 160,
         address: {
-            line1: '27th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: 'Sector 18 Market',
+            line2: 'Noida, Uttar Pradesh'
         }
     },
     {
         _id: 'doc9',
-        name: 'Dr. Ava Mitchell',
+        name: 'Dr. Aditi Nair',
         image: doc9,
         speciality: 'Dermatologist',
         degree: 'MBBS',
         experience: '1 Years',
-        about: 'Dr. Ava Mitchell is a highly dedicated dermatologist known for their commitment to patient care, preventive strategies, accurate diagnosis, and effective treatments tailored to each individual. Dr. Ava Mitchell is a highly dedicated dermatologist known for their commitment to patient care, preventive strategies, accurate diagnosis, and effective treatments tailored to each individual.',
+        about: 'Dr. Aditi Nair is a highly dedicated dermatologist known for their commitment to patient care, preventive strategies, accurate diagnosis, and effective treatments tailored to each individual.',
         fees: 130,
         address: {
-            line1: '37th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: 'Koregaon Park Lane 3',
+            line2: 'Pune, Maharashtra'
         }
     },
     {
         _id: 'doc10',
-        name: 'Dr. Jeffrey King',
+        name: 'Dr. Harsh Bansal',
         image: doc10,
         speciality: 'Pediatricians',
         degree: 'MBBS',
         experience: '2 Years',
-        about: 'Dr. Jeffrey King is a highly dedicated pediatricians known for their commitment to patient care, preventive strategies, accurate diagnosis, and effective treatments tailored to each individual. Dr. Jeffrey King is a highly dedicated pediatricians known for their commitment to patient care, preventive strategies, accurate diagnosis, and effective treatments tailored to each individual.',
+        about: 'Dr. Harsh Bansal is a highly dedicated pediatrician known for their commitment to patient care, preventive strategies, accurate diagnosis, and effective treatments tailored to each individual.',
         fees: 140,
         address: {
-            line1: '47th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: 'Sector 22, Chandigarh Market',
+            line2: 'Chandigarh'
         }
     },
     {
         _id: 'doc11',
-        name: 'Dr. Zoe Kelly',
+        name: 'Dr. Riya Malhotra',
         image: doc11,
         speciality: 'Neurologist',
         degree: 'MBBS',
         experience: '4 Years',
-        about: 'Dr. Zoe Kelly is a highly dedicated neurologist known for their commitment to patient care, preventive strategies, accurate diagnosis, and effective treatments tailored to each individual. Dr. Zoe Kelly is a highly dedicated neurologist known for their commitment to patient care, preventive strategies, accurate diagnosis, and effective treatments tailored to each individual.',
+        about: 'Dr. Riya Malhotra is a highly dedicated neurologist known for their commitment to patient care, preventive strategies, accurate diagnosis, and effective treatments tailored to each individual.',
         fees: 150,
         address: {
-            line1: '57th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: 'Park Street, Opp. Metro Station',
+            line2: 'Kolkata, West Bengal'
         }
     },
     {
         _id: 'doc12',
-        name: 'Dr. Patrick Harris',
+        name: 'Dr. Vivek Deshmukh',
         image: doc12,
         speciality: 'Neurologist',
         degree: 'MBBS',
         experience: '4 Years',
-        about: 'Dr. Patrick Harris is a highly dedicated neurologist known for their commitment to patient care, preventive strategies, accurate diagnosis, and effective treatments tailored to each individual. Dr. Patrick Harris is a highly dedicated neurologist known for their commitment to patient care, preventive strategies, accurate diagnosis, and effective treatments tailored to each individual.',
+        about: 'Dr. Vivek Deshmukh is a highly dedicated neurologist known for their commitment to patient care, preventive strategies, accurate diagnosis, and effective treatments tailored to each individual.',
         fees: 150,
         address: {
-            line1: '57th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: 'Shivaji Nagar',
+            line2: 'Bhopal, Madhya Pradesh'
         }
     },
     {
         _id: 'doc13',
-        name: 'Dr. Chloe Evans',
+        name: 'Dr. Sneha Kulkarni',
         image: doc13,
         speciality: 'General physician',
         degree: 'MBBS',
         experience: '4 Years',
-        about: 'Dr. Chloe Evans is a highly dedicated general physician known for their commitment to patient care, preventive strategies, accurate diagnosis, and effective treatments tailored to each individual. Dr. Chloe Evans is a highly dedicated general physician known for their commitment to patient care, preventive strategies, accurate diagnosis, and effective treatments tailored to each individual.',
+        about: 'Dr. Sneha Kulkarni is a highly dedicated general physician known for their commitment to patient care, preventive strategies, accurate diagnosis, and effective treatments tailored to each individual.',
         fees: 150,
         address: {
-            line1: '17th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: 'Basavanagudi Main Road',
+            line2: 'Bengaluru, Karnataka'
         }
     },
     {
         _id: 'doc14',
-        name: 'Dr. Ryan Martinez',
+        name: 'Dr. Rahul Sethi',
         image: doc14,
         speciality: 'Gynecologist',
         degree: 'MBBS',
         experience: '3 Years',
-        about: 'Dr. Ryan Martinez is a highly dedicated gynecologist known for their commitment to patient care, preventive strategies, accurate diagnosis, and effective treatments tailored to each individual. Dr. Ryan Martinez is a highly dedicated gynecologist known for their commitment to patient care, preventive strategies, accurate diagnosis, and effective treatments tailored to each individual.',
+        about: 'Dr. Rahul Sethi is a highly dedicated gynecologist known for their commitment to patient care, preventive strategies, accurate diagnosis, and effective treatments tailored to each individual.',
         fees: 160,
         address: {
-            line1: '27th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: 'Sadar Bazar Road',
+            line2: 'Nagpur, Maharashtra'
         }
     },
     {
         _id: 'doc15',
-        name: 'Dr. Amelia Hill',
+        name: 'Dr. Meera Iyer',
         image: doc15,
         speciality: 'Dermatologist',
         degree: 'MBBS',
         experience: '1 Years',
-        about: 'Dr. Amelia Hill is a highly dedicated dermatologist known for their commitment to patient care, preventive strategies, accurate diagnosis, and effective treatments tailored to each individual. Dr. Amelia Hill is a highly dedicated dermatologist known for their commitment to patient care, preventive strategies, accurate diagnosis, and effective treatments tailored to each individual.',
+        about: 'Dr. Meera Iyer is a highly dedicated dermatologist known for their commitment to patient care, preventive strategies, accurate diagnosis, and effective treatments tailored to each individual.',
         fees: 130,
         address: {
-            line1: '37th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: 'Anna Nagar, Block B',
+            line2: 'Chennai, Tamil Nadu'
         }
     },
-]
+];
